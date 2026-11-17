@@ -1,4 +1,7 @@
 # PowerShot
+
+![PowerShell logo with a single circuit on the left connecting to it and a single circuit exiting it on the right.  Below it is the word "PowerShot"](https://raw.githubusercontent.com/MidwintersTomb/MediaFiles/refs/heads/main/Pictures/PowerShot.png)
+
 ## A PowerShell single port tunneling script
 
 ### Usage:
